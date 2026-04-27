@@ -180,3 +180,141 @@ Writing Quality
  Professional wording
  Full sentences and paragraphs
  No bullet-point-only answers
+
+
+
+1. NON-TECHNICAL USERS (General Users / Customers)
+
+Quantitative (Rating Scale 1–5)
+
+(1 = very poor, 5 = very good)
+
+1. How easy was it to understand how to use the website on first use?
+2. How easy was it to navigate between pages (e.g. home, suppliers, products)?
+3. How clear and understandable were the labels, buttons, and instructions?
+4. How visually appealing and organised did the layout feel?
+5. How easy was it to complete a full task (e.g. find a product and reach checkout)?
+
+⸻
+
+Qualitative (Open Questions)
+
+1. What part of the website did you find most confusing or difficult to use?
+2. Was there anything you expected to happen that didn’t? Explain.
+3. Which part of the design or layout did you like the most, and why?
+4. If you could change one thing about the website, what would it be?
+5. Did anything feel slow, unclear, or frustrating during use? Explain.
+
+⸻
+
+Observation Task Questions (for session)
+
+Give them tasks, then ask:
+
+* What do you expect to happen when you click this?
+* Can you explain what you are looking for right now?
+* Was anything harder than you expected?
+* Why did you choose that option/page?
+
+⸻
+
+Behaviours to Watch (Non-Technical)
+
+* Hesitation before clicking
+* Misclicks or wrong page navigation
+* Repeated actions (looping)
+* Asking for help
+* Visible frustration or confusion
+
+⸻
+
+2. TECHNICAL USERS (Developers / IT-aware users)
+
+Quantitative (Rating Scale 1–5)
+
+1. How logically structured does the system feel (page flow and functionality)?
+2. How reliable did the system appear during use (no errors, consistent behaviour)?
+3. How efficient is the navigation and task completion process?
+4. How well does the system appear to handle user input (forms, validation, etc.)?
+5. How would you rate the overall performance and responsiveness of the system?
+
+⸻
+
+Qualitative (Open Questions)
+
+1. Did you notice any logical issues or inefficiencies in how the system works?
+2. How could the structure or flow of the application be improved?
+3. Were there any features that felt incomplete or missing?
+4. How well do you think the system would scale or handle more users/data?
+5. What improvements would you suggest from a technical perspective?
+
+⸻
+
+Technical Follow-Up Prompts (Interview Style)
+
+* Does the system behave how you would expect logically?
+* Are there any areas where validation or error handling is missing?
+* Does the navigation follow a predictable structure?
+* Are there any unnecessary steps in completing tasks?
+
+⸻
+
+Behaviours to Watch (Technical Users)
+
+* Skipping steps (trying shortcuts)
+* Testing edge cases (invalid inputs)
+* Attempting actions quickly (efficiency testing)
+* Identifying inconsistencies
+* Commenting on logic rather than design
+
+⸻
+
+3. TASKS FOR BOTH USER TYPES
+
+Use these during observation:
+
+1. Create an account (or simulate registration)
+2. Log in to the system
+3. Find a supplier
+4. View products from a supplier
+5. Select a product and proceed to checkout
+6. Change accessibility settings (if included)
+
+⸻
+
+4. LINK TO YOUR AIMS (YOU CAN STATE THIS ABOVE QUESTIONS)
+
+You are using these questions to:
+
+* Identify usability issues (ease of use, clarity)
+* Evaluate navigation effectiveness
+* Assess performance and responsiveness
+* Check accessibility and readability
+* Test system logic and reliability
+* Compare technical vs non-technical experiences
+
+⸻
+
+5. KEY DIFFERENCE (IMPORTANT FOR WRITE-UP)
+
+* Non-technical users → focus on usability, clarity, experience
+* Technical users → focus on logic, efficiency, reliability, structure
+
+⸻
+
+6. EXTRA (STRONGER ANALYSIS LINK QUESTIONS)
+
+Use 1–2 of these to strengthen top-band answers:
+
+* Did the system behave how you expected based on other websites you’ve used?
+* Were there any points where you felt unsure what to do next?
+* Did anything feel unnecessary or too complicated?
+* How confident would you feel using this system independently?
+
+⸻
+
+This set directly supports:
+
+* clear data collection
+* triangulation (scores + comments + observation)
+* identifying improvements linked to usability, performance, and logic
