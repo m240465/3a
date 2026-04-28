@@ -318,3 +318,349 @@ This set directly supports:
 * clear data collection
 * triangulation (scores + comments + observation)
 * identifying improvements linked to usability, performance, and logic
+
+* # GLH Task 3A — Feedback Planning, Data Gathering & Analysis (Full Pack)
+
+---
+
+# 1. AIMS AND PURPOSE
+
+The purpose of collecting feedback is to identify usability issues, performance limitations, navigation problems, accessibility concerns, and technical weaknesses within the GLH prototype.
+
+Feedback will be used to:
+- Identify pain points in user interaction
+- Evaluate how effectively tasks can be completed
+- Assess clarity of UI elements (buttons, labels, layout)
+- Analyse backend logic and system reliability (technical users)
+- Improve usability, accessibility, navigation, and performance
+
+This feedback directly supports improvements to both:
+- User Interface (UI)
+- System logic and backend implementation
+
+---
+
+# 2. TARGET USERS
+
+## Non-Technical Users
+- General users/customers
+- Age range: 16–40 (broad usability range)
+- No technical knowledge required
+- Provide insight into usability, clarity, and navigation
+
+## Technical Users
+- Students/developers with programming knowledge
+- Experience with systems, databases, and logic
+- Provide insight into backend structure, validation, and efficiency
+
+## Reliability & Bias Reduction
+- Use both user types to ensure balanced feedback
+- Avoid relying on only one perspective
+- Use multiple methods (triangulation) to improve accuracy
+
+---
+
+# 3. FEEDBACK METHODS
+
+Multiple methods will be used to improve reliability through triangulation.
+
+---
+
+## METHOD 1 — SURVEYS (QUESTIONNAIRES)
+
+### Purpose
+To collect quantitative and qualitative data about usability, navigation, accessibility, and system logic.
+
+### Non-Technical Questions (15)
+
+**Quantitative (1–5 scale)**
+1. How easy was it to understand the homepage?
+2. How easy was it to find the suppliers page?
+3. How clear were supplier/product listings?
+4. How easy was navigation?
+5. How clear was checkout?
+6. How easy was login/register?
+7. How organised was the layout?
+8. How effective was accessibility?
+9. How easy was the dashboard?
+10. How confident would you feel using this system?
+
+**Qualitative**
+11. What was most confusing?
+12. What worked best?
+13. What did you expect that didn’t happen?
+14. What would you improve first?
+15. Did anything feel slow or unclear?
+
+---
+
+### Technical Questions (15)
+
+**Quantitative**
+1. How logical was system flow?
+2. How structured was navigation?
+3. How reliable was login/register?
+4. How suitable was database design?
+5. How effective was validation?
+6. How efficient was task completion?
+7. How scalable is the system?
+8. How well does checkout logic work?
+9. How effective is dashboard design?
+10. How well are accessibility features implemented?
+
+**Qualitative**
+11. What technical issue stood out?
+12. What would you refactor?
+13. Any missing features?
+14. Is system efficient?
+15. What improvements are needed?
+
+---
+
+## METHOD 2 — TASK-BASED OBSERVATION
+
+### Purpose
+To observe real behaviour and identify usability issues not visible in surveys.
+
+### Task List
+1. Open homepage  
+2. Navigate to suppliers  
+3. Select supplier  
+4. View products  
+5. Attempt checkout  
+6. Test login/register  
+7. Use accessibility settings  
+8. Access dashboard  
+9. Add/update product  
+
+---
+
+### Observation Prompts (15)
+
+1. What are you trying to do?
+2. What do you expect this button to do?
+3. Where do you think you should go next?
+4. Was that expected?
+5. Did anything slow you down?
+6. Was anything unclear?
+7. Why did you choose that option?
+8. Did you hesitate?
+9. What confused you most?
+10. Any misclicks?
+11. Did checkout work as expected?
+12. Was supplier page clear?
+13. Did accessibility help?
+14. Was dashboard understandable?
+15. Would you need help next?
+
+---
+
+### Observation Table
+
+| Task | Expected | Outcome | Errors | Notes |
+|------|--------|--------|-------|------|
+
+---
+
+### What is Measured
+- Time taken
+- Errors
+- Misclicks
+- Hesitation
+- Task success
+
+---
+
+## METHOD 3 — SEMI-STRUCTURED INTERVIEW
+
+### Purpose
+To explain why users experienced issues.
+
+---
+
+### Non-Technical Questions (15)
+
+1. First impression?
+2. Easiest page?
+3. Hardest page?
+4. Was navigation clear?
+5. Could you find products easily?
+6. Was supplier page clear?
+7. Was checkout easy?
+8. Was login familiar?
+9. Any confusing buttons?
+10. Was layout clear?
+11. Did accessibility help?
+12. Was dashboard understandable?
+13. Biggest frustration?
+14. Best feature?
+15. What to improve first?
+
+---
+
+### Technical Questions (15)
+
+1. Is system architecture logical?
+2. Is navigation consistent?
+3. Is database appropriate?
+4. Is login secure?
+5. Is validation sufficient?
+6. Is checkout reliable?
+7. Any inefficiencies?
+8. Is accessibility implemented properly?
+9. Is dashboard effective?
+10. Is product management logical?
+11. Is active checkbox appropriate?
+12. Is sales summary useful?
+13. Would system scale?
+14. Any redundant processes?
+15. What improvements are needed?
+
+---
+
+### Follow-Up Prompts
+
+- Why?
+- What caused that?
+- What would you expect instead?
+- How would you fix it?
+- UI or logic issue?
+
+---
+
+## METHOD 4 — THINK-ALOUD TESTING
+
+### Purpose
+To capture real-time thoughts and confusion.
+
+### Prompts (15)
+
+- What are you trying to do?
+- What do you expect?
+- What are you looking for?
+- What confuses you?
+- What feels easy?
+- What feels difficult?
+- What is unclear?
+- What is missing?
+- What does this button do?
+- Did something not work?
+- What next?
+- Was it slow?
+- Does layout make sense?
+- Is text clear?
+- Did accessibility help?
+
+---
+
+## METHOD 5 — HEURISTIC EVALUATION
+
+### Purpose
+Expert-based evaluation without users.
+
+### Checks (15)
+
+1. Is navigation clear?
+2. Are buttons labelled?
+3. Is feedback provided?
+4. Are errors prevented?
+5. Are error messages clear?
+6. Is layout consistent?
+7. Is information easy to find?
+8. Are accessibility features visible?
+9. Is contrast readable?
+10. Is keyboard navigation usable?
+11. Is behaviour predictable?
+12. Are there unnecessary steps?
+13. Is dashboard clear?
+14. Is product info clear?
+15. Is checkout efficient?
+
+---
+
+## METHOD 6 — COMPARATIVE ANALYSIS
+
+### Purpose
+Compare with real systems.
+
+### Questions (15)
+
+1. Is navigation similar to real sites?
+2. Is checkout standard?
+3. Are product pages detailed?
+4. Is login typical?
+5. Is layout modern?
+6. Are accessibility features comparable?
+7. Is dashboard realistic?
+8. Is process efficient?
+9. Are features missing?
+10. Is performance comparable?
+11. Is clarity similar?
+12. Are steps excessive?
+13. Is structure scalable?
+14. Is UI intuitive?
+15. What gaps exist?
+
+---
+
+# 4. ETHICAL CONSIDERATIONS
+
+- Participation is voluntary  
+- Users can withdraw  
+- No personal data collected  
+- Data is anonymised  
+- Used only for coursework  
+
+---
+
+# 5. DATA COLLECTION PLAN
+
+- Surveys → Google Forms → Sheets  
+- Observation → Tables/checklists  
+- Interviews → Written responses  
+- Think-aloud → Notes  
+
+---
+
+# 6. DATA STORAGE PLAN
+
+- Stored securely in coursework folder  
+- No names used  
+- Data anonymised  
+- Only accessible to developer  
+
+---
+
+# 7. DATA ANALYSIS PLAN
+
+Data will be analysed by:
+
+- Calculating averages  
+- Identifying lowest scores  
+- Grouping comments into themes  
+- Comparing technical vs non-technical users  
+- Identifying trends  
+
+---
+
+# 8. TRIANGULATION
+
+Survey data identifies user opinions, observation identifies actual behaviour, and interviews explain why issues occur. Combining these methods improves reliability and supports accurate identification of usability, navigation, accessibility, and system logic issues.
+
+---
+
+# 9. SIDE DOCUMENTS INCLUDED
+
+- Feedback plan  
+- Survey forms  
+- Observation sheet  
+- Interview script  
+- Consent form  
+- Data storage plan  
+- Data analysis plan  
+
+---
+
+# 10. CONCLUSION
+
+This feedback plan ensures a structured and reliable approach to evaluating the GLH prototype. By using multiple methods and analysing results through triangulation, it enables accurate identification of strengths, weaknesses, and areas for improvement across usability, accessibility, navigation, performance, and system logic.
